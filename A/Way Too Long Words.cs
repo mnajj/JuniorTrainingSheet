@@ -1,8 +1,5 @@
 using System;
 using static System.Console;
-using System.Linq;
-using System.IO;
-
 
 namespace Project
 {
