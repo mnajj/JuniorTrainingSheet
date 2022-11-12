@@ -1,3 +1,4 @@
+// Hashmap
 #include <bits/stdc++.h>
 
 #define fastio ios_base::sync_with_stdio(false); cin.tie(nullptr);
@@ -33,9 +34,7 @@ int main() {
 	return 0;
 }
 
-
-
-
+// Sorting
 #include <bits/stdc++.h>
 
 #define fastio ios_base::sync_with_stdio(false); cin.tie(nullptr);
