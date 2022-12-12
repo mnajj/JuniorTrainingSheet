@@ -1,4 +1,8 @@
 /*
+Solutions: https://codeforces.com/contest/129/submission/33140064
+*/
+
+/*
 NOT WORKING. but it's useful for demonstrate the logic
 */
 
