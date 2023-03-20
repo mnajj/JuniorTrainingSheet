@@ -11,13 +11,12 @@ func main() {
 	}
 	var sum int
 	for n != m {
+		sum++
 		if m > n && m%2 == 0 {
 			m /= 2
-			sum++
 			continue
 		}
 		m++
-		sum++
 	}
 	fmt.Printf("%d\n", sum)
 }
